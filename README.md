@@ -6,8 +6,10 @@ I made it using PHP/MySql With LARAVEL framework.
 
 ## instalation
 
-1. Create Database and edit .env file with your server credential.
-2. Run the command ```php artisan migrate:refresh --seed``` to create the tables and insert some random data.
+1. Clone or download the project.
+2. run ```compser install``` in terminal.
+3. Create Database and edit .env file with your server credential.
+4. Run the command ```php artisan migrate:refresh --seed``` to create the tables and insert some random data.
  
  ### That's it 
  
