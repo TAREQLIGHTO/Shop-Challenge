@@ -1,6 +1,6 @@
 # Hidden Founders, Short Programming Challenge
 
-This repository containe my project that implementing an app lists shops nearby.
+This repository contain my project that implementing an app lists shops nearby.
 
 I made it using PHP/MySql With LARAVEL framework.
 
